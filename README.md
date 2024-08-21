@@ -4,6 +4,7 @@ Power BI Dashboard
 
 [Video](https://youtu.be/Ua0ecMc_D5o?si=vSXV6-c3ia1j5ZOf)
 
+[ppt](https://github.com/Dinesh949/Zomato-Sales-Order-Trends/blob/main/Microsoft-Power-BI-Storytelling1.pptx)
 # Overview
 This Power BI Sales Analytics Dashboard provides a detailed analysis of Zomato's sales performance across various cities and user segments. The dashboard aims to deliver actionable insights by visualizing key metrics such as order volumes, revenue, and user behavior, enabling stakeholders to make informed decisions and optimize business strategies.
 
